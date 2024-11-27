@@ -67,9 +67,11 @@ export default function Home() {
 				</div>
 
 				<div className="w-full max-w-7xl mx-auto flex justify-center items-center mt-8 sm:mt-12 md:mt-16">
-					<button className="bg-[#0F49AC] hover:bg-[#0F49AC]/90 text-white py-3 px-6 rounded-lg text-xl font-bold transition-colors duration-200">
-						Get a Quote
-					</button>
+					<a href="https://c14f66usuu4.typeform.com/to/kuS0KjKv?utm_source=xxxxx">
+						<button className="bg-[#0F49AC] hover:bg-[#0F49AC]/90 text-white py-3 px-6 rounded-lg text-xl font-bold transition-colors duration-200">
+							Get a Quote
+						</button>
+					</a>
 				</div>
 			</div>
 		</>
