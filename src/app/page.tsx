@@ -31,9 +31,9 @@ export default function Home() {
 				<div className="gallery-cards max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4">
 					{/* Example array mapping - replace with your API data later */}
 					{[
-						{ title: 'Tres Leches Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Chocolate Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Vanilla Cake', imageUrl: '/TresLeches.jpg' },
+						{ title: 'Tres Leches Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Chocolate Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Vanilla Cake', imageUrl: '/Tresleches.jpg' },
 						// Add more items as needed
 					].map((item, index) => (
 						<Card key={index} title={item.title} imageUrl={item.imageUrl} />
@@ -51,15 +51,15 @@ export default function Home() {
 				<div className="gallery-cards max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4">
 					{/* Example array mapping - replace with your API data later */}
 					{[
-						{ title: 'Tres Leches Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Chocolate Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Vanilla Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Tres Leches Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Chocolate Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Vanilla Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Tres Leches Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Chocolate Cake', imageUrl: '/TresLeches.jpg' },
-						{ title: 'Vanilla Cake', imageUrl: '/TresLeches.jpg' },
+						{ title: 'Tres Leches Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Chocolate Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Vanilla Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Tres Leches Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Chocolate Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Vanilla Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Tres Leches Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Chocolate Cake', imageUrl: '/Tresleches.jpg' },
+						{ title: 'Vanilla Cake', imageUrl: '/Tresleches.jpg' },
 						// Add more items as needed
 					].map((item, index) => (
 						<Card key={index} title={item.title} imageUrl={item.imageUrl} />
