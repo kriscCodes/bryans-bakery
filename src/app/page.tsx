@@ -37,7 +37,7 @@ export default function Home() {
 				{/* Buttons */}
 				<div className="flex flex-col sm:flex-row gap-4 mb-12">
 					<a
-						href="https://www.ubereats.com/store/bryans-bakery/ShO7qvutS7WCGH8ExB3ufw?diningMode=DELIVERY"
+						href="https://www.ubereats.com/store/bryans-bakery/ShO7qvutS7WCGH8ExB3ufw?srsltid=AfmBOooZkCwWQiPm1iN-aFUsIth0npMj5hWn7zUOd1tL0Dib7SeJyf6X"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="bg-blue-700 hover:bg-blue-800 text-white py-3 px-8 rounded-lg text-lg font-semibold transition-colors duration-200 text-center shadow"
@@ -45,7 +45,7 @@ export default function Home() {
 						Order on Uber Eats
 					</a>
 					<a
-						href="https://kzmkmip45f05vy7wdq3w.lite.vusercontent.net/"
+						href="https://www.instagram.com/bryansbakeryinc/?hl=en"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="bg-gradient-to-r from-pink-500 to-orange-400 hover:from-pink-600 hover:to-orange-500 text-white py-3 px-8 rounded-lg text-lg font-semibold transition-colors duration-200 text-center shadow flex items-center justify-center gap-2"
